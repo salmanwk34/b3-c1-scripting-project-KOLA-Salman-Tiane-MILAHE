@@ -1,22 +1,33 @@
-import csv
+import csv # import de  la librairie csv
+import pandas as pd # import de la librairie pandas
 
-fichier_csv = "conso-annuelles_v1.csv" # Nom du fichier CSV
-outfile = open("conso-clean.csv", "w")  # Nom du fichier de sortie
+fichier_csv = "conso-annuelles_v1.csv" # nom du fichier csv
+
+data = pd.read_csv(fichier_csv, sep=";") # lecture du fichier csv
+
+
+
+
+
+
+
+
+# outfile = open("conso-clean.csv", "w")  # Nom du fichier de sortie
   
-with open(fichier_csv, "r") as csv_file: # open the csv file
-    csv_reader = csv.reader(csv_file, delimiter=";") # read the csv file
+# with open(fichier_csv, "r") as csv_file: # open the csv file
+#    csv_reader = csv.reader(csv_file, delimiter=";") # read the csv file
     
-    for row in csv_reader: 
-        appareil_suivi = row[0]
-        id_logement = row[1]
-        conso_annuelle_ann1 = row[2]
-        conso_annuelle_ann2 = row[3]
-        type_or = row[4]
-
-        if not '' in row: # Enleve les lignes vides
-            line = "{},{},{},{}\n".format(appareil_suivi, conso_annuelle_ann1, conso_annuelle_ann2, type_or)
-            outfile.write(line)
-    outfile.close()
+#    for row in csv_reader: 
+#        appareil_suivi = row[0]
+#        id_logement = row[1]
+#       conso_annuelle_ann1 = row[2]
+#        conso_annuelle_ann2 = row[3]
+#        type_or = row[4]
+#
+#        if not '' in row: # Enleve les lignes vides
+#            line = "{},{},{},{}\n".format(appareil_suivi, conso_annuelle_ann1, conso_annuelle_ann2, type_or)
+#            outfile.write(line)
+#    outfile.close()
 
 
 
