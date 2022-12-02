@@ -1,0 +1,556 @@
+Appareil suivi,Consommation annuelle  AN1,Consommation annuelle AN2,Type
+Audio_TV,22,2,16,7,Barre De Son
+Audio_TV,14,7,13,0,Barre De Son
+Audio_TV,7,8,7,8,Barre De Son
+Audio_TV,7,9,7,5,Barre De Son
+Audio_TV,6,4,6,9,Barre De Son 2
+Audio_TV,10,0,14,0,Home Cinéma
+Audio_TV,0,5,0,0,Home Cinéma
+Audio_TV,18,7,1,2,Home Cinéma
+Audio_TV,6,6,0,3,Home Cinéma
+Audio_TV,1,1,1,1,Home Cinéma
+Audio_TV,59,3,115,6,Home Cinéma
+Chaudières,175,2,216,8,GAZ
+Chaudières,195,0,83,0,GAZ
+Chaudières,49,6,52,9,GAZ
+Chaudières,96,7,117,4,FIOUL
+Chaudières,589,7,478,1,GAZ
+Chaudières,364,5,567,2,GAZ
+Chaudières,226,8,175,5,GAZ
+Chaudières,62,6,59,4,GAZ
+Chaudières,93,6,92,7,GAZ
+Chaudières,123,9,168,2,GAZ
+Chaudières,273,4,215,5,GAZ
+Chaudières,287,3,279,2,GAZ
+Chaudières,88,9,103,8,GAZ
+Chaudières,83,1,85,0,GAZ
+Chaudières,235,4,225,5,GAZ
+Chaudières,72,6,131,2,FIOUL
+Chaudières,347,2,307,0,GAZ
+Chaudières,233,2,196,7,GAZ
+Chaudières,126,6,141,3,GAZ
+Chaudières,201,5,203,6,GAZ
+Chaudières,318,6,403,0,GAZ
+Chaudières,196,2,199,0,GAZ
+Chaudières,371,9,532,8,FIOUL
+Chaudières,111,9,137,1,GAZ
+Chaudières,903,8,784,8,FIOUL
+Chaudières,613,3,364,9,FIOUL
+Chaudières,63,7,69,7,GAZ
+Chaudières,93,4,110,5,GAZ
+Clim_mob_rafraich_Déshum,6,0,79,9,CLIMATISEUR SUR PRISE
+Clim_mob_rafraich_Déshum,1404,8,1377,0,DÉSHUMIDIFCATEUR
+Clim_mob_rafraich_Déshum,3,8,188,0,DÉSHUMIDIFCATEUR
+Clim_mob_rafraich_Déshum,29,3,0,0,RAFRAICHISSEUR SUR PRISE
+Clim_mob_rafraich_Déshum,8,4,7,1,RAFRAICHISSEUR SUR PRISE
+Congélateur,115,9,208,8,ARMOIRE
+Congélateur,113,3,122,1,ARMOIRE
+Congélateur,109,1,98,2,ARMOIRE
+Congélateur,267,4,271,3,ARMOIRE
+Congélateur,162,2,155,7,ARMOIRE
+Congélateur,109,0,80,0,ARMOIRE
+Congélateur,701,1,766,0,ARMOIRE
+Congélateur,262,7,258,5,ARMOIRE
+Congélateur,441,5,449,0,ARMOIRE
+Congélateur,308,2,222,7,ARMOIRE
+Congélateur,169,2,150,3,ARMOIRE
+Congélateur,201,3,409,0,ARMOIRE
+Congélateur,388,0,372,2,ARMOIRE
+Congélateur,225,0,182,4,ARMOIRE
+Congélateur,152,8,163,7,ARMOIRE
+Congélateur,589,8,201,1,ARMOIRE
+Congélateur,30,8,210,2,ARMOIRE
+Congélateur,231,3,228,2,ARMOIRE
+Congélateur,626,9,639,1,ARMOIRE
+Congélateur,303,3,319,1,ARMOIRE
+Congélateur,295,0,312,1,ARMOIRE
+Congélateur,259,6,268,3,ARMOIRE
+Congélateur,886,3,898,2,ARMOIRE
+Congélateur,220,8,206,7,ARMOIRE
+Congélateur,235,0,241,6,ARMOIRE
+Congélateur,166,8,196,6,ARMOIRE
+Congélateur,636,7,521,4,ARMOIRE
+Congélateur,237,9,242,3,ARMOIRE
+Congélateur,337,0,307,1,COFFRE
+Congélateur,619,2,533,5,COFFRE
+Congélateur,142,6,149,9,COFFRE
+Congélateur,168,1,175,7,COFFRE
+Congélateur,200,8,230,6,COFFRE
+Congélateur,418,8,457,8,COFFRE
+Congélateur,492,0,985,2,COFFRE
+Congélateur,209,1,232,0,COFFRE
+Congélateur,107,4,164,6,COFFRE
+Congélateur,286,2,273,9,COFFRE
+Congélateur,302,3,337,6,COFFRE
+Congélateur,194,4,42,2,COFFRE
+Congélateur,644,3,616,2,COFFRE
+Congélateur,223,3,220,4,COFFRE
+Congélateur,81,9,168,9,COFFRE
+Congélateur,178,7,180,2,COFFRE
+Cuisinières,121,7,159,1,FOUR ÉLECTRIQUE + PLAQUES GAZ
+Cuisinières,110,3,114,0,FOUR ÉLECTRIQUE + PLAQUES GAZ + 1 PLAQUE ÉLECTRIQUE
+Cuisinières,236,1,247,0,FOUR ÉLECTRIQUE + PLAQUES GAZ + 1 PLAQUE ÉLECTRIQUE
+Cuisinières,193,7,61,8,FOUR ÉLECTRIQUE + PLAQUES GAZ + 1 PLAQUE ÉLECTRIQUE
+Cuisinières,286,3,256,0,FOUR+PLAQUES ÉLECTRIQUES
+Cuisinières,255,8,253,8,FOUR+PLAQUES ÉLECTRIQUES
+Cuisinières,38,3,7,7,FOUR+PLAQUES ÉLECTRIQUES
+Cuisinières,151,4,267,5,FOUR+PLAQUES ÉLECTRIQUES
+Cuisinières,185,5,154,6,FOUR+PLAQUES ÉLECTRIQUES
+Cuisinières,72,6,75,0,FOUR+PLAQUES ÉLECTRIQUES
+Cuisinières,111,2,168,1,FOUR+PLAQUES ÉLECTRIQUES
+Cuisinières,136,9,248,7,FOUR+PLAQUES ÉLECTRIQUES
+Cuisinières,132,6,76,2,FOUR+PLAQUES ÉLECTRIQUES
+Cuisinières,215,2,228,7,FOUR+PLAQUES ÉLECTRIQUES
+Divers cuisine,1,2,1,6,BLENDER
+Divers cuisine,0,7,0,7,CUISSEUR VAPEUR
+Divers cuisine,16,2,18,0,CUISSEUR VAPEUR
+Divers cuisine,15,4,21,8,CUISSEUR VAPEUR
+Divers cuisine,27,2,20,3,FRITEUSE
+Divers cuisine,26,5,2,8,FRITEUSE
+Divers cuisine,18,9,24,9,FRITEUSE
+Divers cuisine,3,0,3,6,GRILLE PAIN
+Divers cuisine,3,9,6,7,GRILLE PAIN
+Divers cuisine,1,6,1,7,RACLETTE
+Divers cuisine,17,8,21,1,RICE COOKER
+Divers cuisine,4,9,1,6,RICE COOKER
+Eau chaude sanitaire,848,8,1005,7,CETI
+Eau chaude sanitaire,803,7,863,5,CETI
+Eau chaude sanitaire,762,3,571,3,CETI
+Eau chaude sanitaire,1990,6,599,8,JOULE / CETI
+Eau chaude sanitaire,889,3,915,4,JOULE
+Eau chaude sanitaire,1099,0,1271,5,JOULE
+Eau chaude sanitaire,790,1,702,9,JOULE
+Eau chaude sanitaire,1406,6,1462,6,JOULE
+Eau chaude sanitaire,829,8,246,0,JOULE
+Eau chaude sanitaire,889,8,895,2,JOULE
+Eau chaude sanitaire,1463,4,1452,0,JOULE
+Eau chaude sanitaire,1131,0,1145,8,JOULE
+Eau chaude sanitaire,882,5,951,2,JOULE
+Eau chaude sanitaire,1344,5,1421,2,JOULE
+Eau chaude sanitaire,2029,4,1899,8,JOULE
+Eau chaude sanitaire,931,5,846,5,JOULE
+Eau chaude sanitaire,1607,7,1570,3,JOULE
+Eau chaude sanitaire,532,4,529,9,JOULE
+Eau chaude sanitaire,2436,4,2245,1,JOULE
+Eau chaude sanitaire,2514,9,1660,8,JOULE
+Eau chaude sanitaire,1739,7,1606,5,JOULE
+Eau chaude sanitaire,777,7,758,7,JOULE
+Eau chaude sanitaire,1929,7,1852,7,JOULE
+Eau chaude sanitaire,3344,4,3137,4,JOULE
+Eau chaude sanitaire,1398,2,1457,1,JOULE
+Eau chaude sanitaire,2160,4,2153,0,JOULE
+Eau chaude sanitaire,1951,9,2119,4,JOULE
+Eau chaude sanitaire,2262,5,1686,8,JOULE
+Eau chaude sanitaire,1694,0,1896,7,JOULE
+Eau chaude sanitaire,1070,9,1096,6,JOULE
+Eau chaude sanitaire,2303,6,2674,1,JOULE
+Eau chaude sanitaire,2820,7,2944,6,JOULE
+Eau chaude sanitaire,2129,8,2257,2,JOULE
+Eau chaude sanitaire,1354,8,1520,6,JOULE
+Eau chaude sanitaire,2331,8,2418,7,JOULE
+Eau chaude sanitaire,2885,9,3766,3,JOULE
+Eau chaude sanitaire,655,0,659,8,JOULE
+Eau chaude sanitaire,700,4,645,2,JOULE
+Eau chaude sanitaire,696,7,501,5,JOULE
+Eau chaude sanitaire,1393,7,1277,3,JOULE
+Eau chaude sanitaire,153,6,142,9,JOULE
+Eau chaude sanitaire,1262,0,1471,5,JOULE
+Eau chaude sanitaire,748,8,800,7,JOULE
+Eau chaude sanitaire,754,4,423,7,JOULE
+Eau chaude sanitaire,750,9,748,9,JOULE
+Eau chaude sanitaire,1326,4,1183,6,JOULE
+Eau chaude sanitaire,2210,8,2397,7,JOULE
+Eau chaude sanitaire,1442,4,1423,3,JOULE
+Hifi,1,3,0,0,HIFI
+Hifi,3,2,3,5,HIFI
+Hifi,48,8,47,1,HIFI
+Hifi,19,5,78,6,HIFI
+Hifi,13,5,13,6,HIFI
+Hifi,14,8,16,4,HIFI
+Hifi,23,0,22,0,HIFI
+Hifi,2,9,2,5,HIFI
+Hifi,67,7,67,2,HIFI
+Hifi,0,9,0,9,HIFI
+Hifi,29,8,57,4,HIFI
+Hifi,0,8,1,4,HIFI
+Hifi,4,5,4,9,HIFI
+Hifi,58,4,62,7,HIFI
+Hifi,54,3,111,6,HIFI
+Hifi,67,6,72,0,HIFI
+Hifi,15,2,15,2,HIFI
+Hifi,31,8,32,1,HIFI
+Hifi,147,1,151,4,HIFI
+Hifi,11,6,1,0,HIFI
+Hifi,51,2,55,9,HIFI
+Hifi,11,0,6,2,HIFI
+Hifi,1,0,1,0,HIFI
+Hifi,0,6,2,5,HIFI
+Hifi,3,6,4,0,HIFI
+Hifi,1,2,1,8,HIFI
+Hifi,142,2,122,0,HIFI
+Hifi,72,5,63,2,HIFI
+Hifi,4,3,0,3,HIFI
+Hifi,1,9,2,2,HIFI
+Hifi,4,1,4,6,HIFI
+Hifi,5,1,4,5,HIFI
+Hifi,13,3,13,7,HIFI
+Hifi,5,3,5,1,HIFI 2
+Imprimantes,1,4,1,3,JET D'ENCRE
+Imprimantes,8,1,1,2,JET D'ENCRE
+Imprimantes,11,1,23,2,JET D'ENCRE
+Imprimantes,1,7,1,5,JET D'ENCRE
+Imprimantes,11,0,12,3,JET D'ENCRE
+Imprimantes,3,8,2,0,JET D'ENCRE
+Imprimantes,0,2,0,8,JET D'ENCRE
+Imprimantes,0,2,0,3,JET D'ENCRE
+Imprimantes,2,9,7,6,JET D'ENCRE
+Imprimantes,10,4,10,8,JET D'ENCRE
+Imprimantes,14,7,20,1,JET D'ENCRE
+Imprimantes,51,1,4,1,JET D'ENCRE
+Imprimantes,0,3,0,2,JET D'ENCRE
+Imprimantes,0,2,0,3,JET D'ENCRE
+Imprimantes,9,5,9,7,JET D'ENCRE
+Imprimantes,1,2,1,2,JET D'ENCRE
+Imprimantes,0,5,0,2,JET D'ENCRE
+Imprimantes,11,2,11,4,JET D'ENCRE
+Imprimantes,0,6,0,6,JET D'ENCRE
+Imprimantes,1,4,1,5,JET D'ENCRE
+Imprimantes,1,4,17,1,JET D'ENCRE
+Imprimantes,10,3,6,6,JET D'ENCRE
+Imprimantes,1,8,1,7,JET D'ENCRE
+Imprimantes,0,2,0,0,JET D'ENCRE
+Imprimantes,0,3,0,2,JET D'ENCRE
+Imprimantes,2,1,1,4,JET D'ENCRE
+Imprimantes,3,0,2,6,JET D'ENCRE
+Imprimantes,0,4,0,6,JET D'ENCRE
+Imprimantes,3,7,20,8,JET D'ENCRE
+Imprimantes,1,9,3,4,JET D'ENCRE
+Imprimantes,4,1,13,5,JET D'ENCRE
+Imprimantes,0,3,0,2,LASER
+Imprimantes,61,6,2,6,LASER
+Imprimantes,0,4,0,5,LASER
+Imprimantes,1,6,1,2,LASER
+Imprimantes,17,8,8,6,LASER
+Imprimantes,49,3,50,7,LASER
+Imprimantes,0,2,0,1,LASER
+Imprimantes,1,8,0,4,LASER
+Lave linge,59,8,16,6,HUBLOT
+Lave linge,199,0,187,5,HUBLOT
+Lave linge,11,4,8,8,HUBLOT
+Lave linge,67,7,98,5,HUBLOT
+Lave linge,59,7,55,8,HUBLOT
+Lave linge,124,0,131,5,HUBLOT
+Lave linge,60,2,55,5,HUBLOT
+Lave linge,11,9,22,5,HUBLOT
+Lave linge,59,4,66,7,HUBLOT
+Lave linge,247,0,256,7,HUBLOT
+Lave linge,39,5,45,4,HUBLOT
+Lave linge,114,2,125,5,HUBLOT
+Lave linge,35,0,59,8,HUBLOT
+Lave linge,92,0,88,5,HUBLOT
+Lave linge,25,6,20,0,HUBLOT
+Lave linge,68,6,72,7,HUBLOT
+Lave linge,88,6,67,2,HUBLOT
+Lave linge,12,1,14,9,HUBLOT
+Lave linge,138,0,133,4,HUBLOT
+Lave linge,38,7,59,3,HUBLOT
+Lave linge,87,9,54,4,HUBLOT
+Lave linge,41,9,75,1,HUBLOT
+Lave linge,131,2,89,2,HUBLOT
+Lave linge,93,8,129,4,HUBLOT
+Lave linge,326,2,335,1,HUBLOT
+Lave linge,136,8,141,9,HUBLOT
+Lave linge,82,4,81,7,HUBLOT
+Lave linge,19,6,29,7,HUBLOT
+Lave linge,330,2,318,0,HUBLOT
+Lave linge,126,1,160,6,HUBLOT
+Lave linge,222,9,285,2,HUBLOT
+Lave linge,77,5,114,5,HUBLOT
+Lave linge,107,9,91,6,HUBLOT
+Lave linge,159,5,90,9,HUBLOT
+Lave linge,17,7,17,5,HUBLOT
+Lave linge,56,8,62,2,HUBLOT
+Lave linge,140,6,137,2,HUBLOT
+Lave linge,97,1,105,0,HUBLOT
+Lave linge,60,1,60,2,HUBLOT
+Lave linge,97,8,179,7,HUBLOT
+Lave linge,123,1,146,2,HUBLOT
+Lave linge,101,4,145,9,HUBLOT
+Lave linge,100,5,108,1,HUBLOT
+Lave linge,174,3,211,3,HUBLOT
+Lave linge,54,7,66,5,HUBLOT
+Lave linge,440,7,442,0,HUBLOT
+Lave linge,50,2,55,9,HUBLOT
+Lave linge,47,6,64,5,HUBLOT
+Lave linge,17,1,12,7,HUBLOT
+Lave linge,37,4,42,6,HUBLOT
+Lave linge,99,0,100,8,HUBLOT
+Lave linge,58,8,43,4,HUBLOT
+Lave linge,61,2,55,4,HUBLOT
+Lave linge,40,8,37,1,HUBLOT
+Lave linge,216,6,205,0,HUBLOT
+Lave linge,178,8,72,4,HUBLOT
+Lave linge,96,5,115,6,HUBLOT
+Lave linge,104,2,120,1,HUBLOT
+Lave linge,244,6,247,8,HUBLOT
+Lave linge,93,7,230,2,SÉCHANTE
+Lave linge,13,3,3,8,SÉCHANTE
+Lave linge,36,9,39,1,SÉCHANTE
+Lave linge,134,3,282,4,SÉCHANTE
+Lave linge,39,8,44,6,TOP
+Lave linge,54,2,64,0,TOP
+Lave linge,94,1,88,1,TOP
+Lave linge,27,4,16,8,TOP
+Lave linge,120,6,39,4,TOP
+Lave linge,29,1,26,9,TOP
+Lave linge,33,6,33,4,TOP
+Lave linge,176,1,176,9,TOP
+Lave linge,86,3,67,7,TOP
+Lave linge,89,5,131,9,TOP
+Lave linge,138,1,126,8,TOP
+Lave linge,61,9,94,0,TOP
+Lave linge,59,9,54,3,TOP
+Lave linge,53,1,62,4,TOP
+Lave linge,55,7,44,9,TOP
+Lave linge,96,0,93,7,TOP
+Lave linge,38,1,40,3,TOP
+Lave linge,172,0,188,8,TOP
+Loisirs,759,8,794,9,Aquarium avec chauffage
+Loisirs,688,3,953,7,Aquarium avec chauffage
+Loisirs,52,7,37,6,Aquarium juste pompe
+Loisirs,36,8,38,3,Balneo
+Loisirs,35,3,1,3,Lit Motorise
+Loisirs,24,8,27,3,Adoucisseur
+Loisirs,13,4,14,8,Adoucisseur
+Mobilité_électrique,11,9,8,9,VÉLO ÉLECTRIQUE
+Mobilité_électrique,6,8,7,8,VÉLO ÉLECTRIQUE
+Mobilité_électrique,4,1,1,1,VÉLO ÉLECTRIQUE
+Mobilité_électrique,22,1,15,2,VÉLO ÉLECTRIQUE
+Mobilité_électrique,9,2,31,0,VÉLO ÉLECTRIQUE
+Nettoyage_sols,3,3,0,7,ASPIRATEUR À MAIN
+Nettoyage_sols,33,9,35,4,ASPIRATEUR CENTRALISÉ
+Nettoyage_sols,7,9,5,6,ASPIRATEUR CENTRALISÉ
+Nettoyage_sols,3,3,3,1,ASPIRATEUR FILAIRE
+Nettoyage_sols,15,7,15,0,ASPIRATEUR FILAIRE
+Nettoyage_sols,51,4,39,3,ASPIRATEUR FILAIRE
+Nettoyage_sols,7,1,3,4,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,6,3,12,1,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,3,3,5,3,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,2,9,3,7,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,0,9,0,8,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,8,2,8,9,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,3,4,6,2,ASPIRATEUR RECHARGEABLE
+Nettoyage_sols,3,9,2,2,ASPIRATEUR ROBOT
+Nettoyage_sols,19,5,19,9,ASPIRATEUR ROBOT
+Nettoyage_sols,17,7,13,3,ASPIRATEUR ROBOT
+Nettoyage_sols,8,6,3,5,ASPIRATEUR ROBOT
+Nettoyage_sols,1,6,2,8,NETTOYEUR VAPEUR
+Périph_info_bureautique,12,0,12,5,ASSISTANT VOCAL
+Périph_Internet_réseaux,122,7,153,8,SERVEUR
+Périph_Internet_réseaux,76,3,76,2,SERVEUR
+Périph_Internet_réseaux,44,4,42,8,SWITCH ETHERNET
+Periph_multimedia,130,2,95,0,DÉCODEUR
+Periph_multimedia,125,6,102,0,DÉCODEUR
+Periph_multimedia,97,6,98,0,DÉCODEUR
+Periph_multimedia,5,5,10,4,DÉCODEUR
+Periph_multimedia,42,9,42,9,DÉCODEUR
+Periph_multimedia,0,6,0,6,LECTEUR DVD OU BLU RAY
+Periph_multimedia,1,4,0,7,LECTEUR DVD OU BLU RAY
+Periph_multimedia,51,5,27,1,LECTEUR DVD OU BLU RAY
+Periph_multimedia,25,9,24,1,LECTEUR DVD OU BLU RAY
+Periph_multimedia,0,5,0,5,LECTEUR DVD OU BLU RAY
+Periph_multimedia,1,3,0,0,LECTEUR DVD OU BLU RAY
+Piscines,5033,1,-,SPA
+Piscines,1746,8,1635,2,HORS SOL
+Piscines,206,5,268,3,HORS SOL
+Piscines,2734,2,4086,3,ENTERRÉE
+Piscines,2517,0,1211,0,HORS SOL
+Piscines,1488,9,1247,1,ENTERRÉE
+Piscines,266,0,0,6,HORS SOL
+Plaques cuisson,99,7,99,4,FONTE
+Plaques cuisson,95,9,55,1,INDUCTION
+Plaques cuisson,74,8,98,4,INDUCTION
+Plaques cuisson,129,5,139,2,INDUCTION
+Plaques cuisson,158,6,157,4,INDUCTION
+Plaques cuisson,51,7,98,9,INDUCTION
+Plaques cuisson,212,0,306,2,INDUCTION
+Plaques cuisson,93,6,101,5,INDUCTION
+Plaques cuisson,121,8,160,3,INDUCTION
+Plaques cuisson,126,5,152,7,INDUCTION
+Plaques cuisson,15,7,19,1,INDUCTION
+Plaques cuisson,270,4,369,9,INDUCTION
+Plaques cuisson,55,2,46,2,INDUCTION
+Plaques cuisson,212,0,292,8,INDUCTION
+Plaques cuisson,187,6,153,2,INDUCTION
+Plaques cuisson,170,3,230,7,INDUCTION
+Plaques cuisson,107,9,116,3,INDUCTION
+Plaques cuisson,84,4,61,1,INDUCTION
+Plaques cuisson,64,8,84,2,INDUCTION
+Plaques cuisson,246,2,216,8,INDUCTION
+Plaques cuisson,65,6,86,1,INDUCTION
+Plaques cuisson,398,5,431,0,INDUCTION
+Plaques cuisson,307,9,344,8,INDUCTION
+Plaques cuisson,0,5,0,8,MIXTE
+Plaques cuisson,15,1,48,7,MIXTE
+Plaques cuisson,0,0,0,0,MIXTE
+Plaques cuisson,45,3,55,1,VITROCÉRAMIQUE
+Plaques cuisson,4,7,2,4,VITROCÉRAMIQUE
+Plaques cuisson,57,6,82,1,VITROCÉRAMIQUE
+Plaques cuisson,105,5,140,5,VITROCÉRAMIQUE
+Plaques cuisson,531,6,601,2,VITROCÉRAMIQUE
+Plaques cuisson,162,7,145,2,VITROCÉRAMIQUE
+Plaques cuisson,98,9,129,6,VITROCÉRAMIQUE
+Plaques cuisson,166,5,151,3,VITROCÉRAMIQUE
+Plaques cuisson,489,9,534,3,VITROCÉRAMIQUE
+Plaques cuisson,152,6,169,0,VITROCÉRAMIQUE
+Plaques cuisson,180,5,182,8,VITROCÉRAMIQUE
+Poêles,151,1,134,7,POELE A GRANULES
+Poêles,87,4,101,7,POELE A GRANULES
+Poêles,38,7,26,1,POELE A GRANULES
+Poêles,70,5,83,7,POELE A GRANULES
+Poêles,38,1,37,1,POELE PÉTROLE
+Pompes,3,4,5,7,POMPE CAVE
+Pompes,7,7,10,0,POMPE FOSSE SCEPTIQUE
+Pompes,135,5,72,8,POMPE JARDIN
+Repassage,0,0,0,0,CENTRALE VAPEUR DE REPASSAGE
+Repassage,33,7,27,9,CENTRALE VAPEUR DE REPASSAGE
+Repassage,38,3,34,4,CENTRALE VAPEUR DE REPASSAGE
+Repassage,34,3,12,0,CENTRALE VAPEUR DE REPASSAGE
+Repassage,7,1,14,2,CENTRALE VAPEUR DE REPASSAGE
+Repassage,38,1,25,9,CENTRALE VAPEUR DE REPASSAGE
+Repassage,11,2,18,3,CENTRALE VAPEUR DE REPASSAGE
+Repassage,13,4,9,5,CENTRALE VAPEUR DE REPASSAGE
+Repassage,23,7,22,7,CENTRALE VAPEUR DE REPASSAGE
+Repassage,42,2,29,9,CENTRALE VAPEUR DE REPASSAGE
+Repassage,42,0,13,7,FER À REPASSER
+Repassage,45,0,40,0,FER À REPASSER
+Santé,40,4,81,1,APNESOMMEIL
+Santé,25,0,25,0,APNESOMMEIL
+Sèche linge,782,6,549,8,CONDENSATION
+Sèche linge,448,6,454,0,CONDENSATION
+Sèche linge,405,5,411,8,CONDENSATION
+Sèche linge,268,3,235,9,CONDENSATION
+Sèche linge,259,8,288,3,CONDENSATION
+Sèche linge,234,7,235,2,CONDENSATION
+Sèche linge,226,1,357,6,CONDENSATION
+Sèche linge,218,4,359,5,CONDENSATION
+Sèche linge,113,9,136,0,CONDENSATION
+Sèche linge,108,5,36,2,CONDENSATION
+Sèche linge,99,5,35,6,CONDENSATION
+Sèche linge,83,2,67,0,CONDENSATION
+Sèche linge,7,7,13,4,CONDENSATION
+Sèche linge,1123,2,1267,3,EVACUATION
+Sèche linge,485,4,365,8,EVACUATION
+Sèche linge,376,0,455,6,EVACUATION
+Sèche linge,146,2,111,0,EVACUATION
+Sèche linge,141,2,179,7,EVACUATION
+Sèche linge,287,6,353,8,POMPE À CHALEUR
+Sèche linge,228,8,230,4,POMPE À CHALEUR
+Sèche linge,119,7,128,9,POMPE À CHALEUR
+Sécurité,224,2,39,8,CAMÉRA WIFI
+Sécurité,96,4,101,8,PORTE OU PORTAIL AUTOMATIQUE
+Sécurité,115,7,115,7,PORTE OU PORTAIL AUTOMATIQUE
+Sécurité,53,4,51,5,PORTE OU PORTAIL AUTOMATIQUE
+Sécurité,28,7,27,1,PORTE OU PORTAIL AUTOMATIQUE
+Sécurité,40,2,42,1,VISIOPHONE
+Sécurité,39,9,40,9,VOLETS ROULANTS
+Sécurité,18,4,16,9,VOLETS ROULANTS
+Sécurité,23,4,23,0,VOLETS ROULANTS
+Sécurité,2,4,3,1,VOLETS ROULANTS
+Tablettes_smartph,5,6,10,4,TABLETTE
+Tablettes_smartph,3,9,1,4,TABLETTE
+Téléviseurs,55,2,115,7,PRINCIPAL
+Téléviseurs,311,0,36,6,PRINCIPAL
+Téléviseurs,274,3,314,7,PRINCIPAL
+Téléviseurs,158,8,152,6,PRINCIPAL
+Téléviseurs,0,0,7,5,PRINCIPAL
+Téléviseurs,162,5,150,2,PRINCIPAL
+Téléviseurs,147,6,117,6,PRINCIPAL
+Téléviseurs,182,4,75,9,PRINCIPAL
+Téléviseurs,68,3,86,5,PRINCIPAL
+Téléviseurs,36,7,75,3,PRINCIPAL
+Téléviseurs,214,8,228,8,PRINCIPAL
+Téléviseurs,307,8,287,4,PRINCIPAL
+Téléviseurs,180,0,205,5,PRINCIPAL
+Téléviseurs,277,0,248,9,PRINCIPAL
+Téléviseurs,144,1,141,4,PRINCIPAL
+Téléviseurs,393,0,238,9,PRINCIPAL
+Téléviseurs,169,5,190,5,PRINCIPAL
+Téléviseurs,724,3,741,5,PRINCIPAL
+Téléviseurs,75,5,101,6,PRINCIPAL
+Téléviseurs,64,5,87,4,PRINCIPAL
+Téléviseurs,350,8,345,2,PRINCIPAL
+Téléviseurs,108,6,236,1,PRINCIPAL
+Téléviseurs,142,8,77,4,PRINCIPAL
+Téléviseurs,365,0,488,9,PRINCIPAL
+Téléviseurs,437,6,88,0,PRINCIPAL
+Téléviseurs,95,5,167,5,PRINCIPAL
+Téléviseurs,118,2,102,6,PRINCIPAL
+Téléviseurs,391,7,531,0,PRINCIPAL
+Téléviseurs,83,9,121,1,PRINCIPAL
+Téléviseurs,130,8,168,6,PRINCIPAL
+Téléviseurs,156,7,158,4,PRINCIPAL
+Téléviseurs,82,1,82,8,PRINCIPAL
+Téléviseurs,242,2,177,5,PRINCIPAL
+Téléviseurs,105,9,95,2,PRINCIPAL
+Téléviseurs,54,5,174,5,PRINCIPAL
+Téléviseurs,207,8,158,7,PRINCIPAL
+Téléviseurs,66,8,200,8,PRINCIPAL
+Téléviseurs,27,6,46,4,PRINCIPAL
+Téléviseurs,136,5,184,2,PRINCIPAL
+Téléviseurs,92,7,130,1,PRINCIPAL
+Téléviseurs,145,7,88,3,PRINCIPAL
+Téléviseurs,62,0,78,0,PRINCIPAL
+Téléviseurs,151,8,180,8,PRINCIPAL
+Téléviseurs,33,2,42,9,PRINCIPAL
+Téléviseurs,334,7,346,0,PRINCIPAL
+Téléviseurs,63,7,55,9,PRINCIPAL
+Téléviseurs,634,2,307,5,PRINCIPAL
+Téléviseurs,112,0,104,0,PRINCIPAL
+Téléviseurs,86,0,102,3,PRINCIPAL
+Téléviseurs,139,2,102,7,PRINCIPAL
+Téléviseurs,295,9,346,8,PRINCIPAL
+Téléviseurs,412,0,409,8,PRINCIPAL
+Téléviseurs,118,5,112,4,PRINCIPAL
+Téléviseurs,76,1,124,1,PRINCIPAL
+Téléviseurs,184,2,235,5,PRINCIPAL
+Téléviseurs,131,0,135,5,PRINCIPAL
+Téléviseurs,3,2,5,4,PRINCIPAL
+Téléviseurs,201,5,250,1,PRINCIPAL
+Téléviseurs,85,4,78,0,PRINCIPAL
+Téléviseurs,388,1,398,5,PRINCIPAL
+Téléviseurs,258,0,195,7,PRINCIPAL
+Téléviseurs,115,4,118,1,PRINCIPAL
+Téléviseurs,26,2,30,6,PRINCIPAL
+Téléviseurs,20,1,26,2,PRINCIPAL
+Téléviseurs,124,8,103,8,PRINCIPAL
+Téléviseurs,24,9,30,3,PRINCIPAL
+Téléviseurs,104,5,150,0,PRINCIPAL
+Téléviseurs,47,2,39,9,PRINCIPAL
+Téléviseurs,50,8,44,5,PRINCIPAL
+Téléviseurs,208,6,195,2,PRINCIPAL
+Téléviseurs,130,0,124,0,PRINCIPAL
+Téléviseurs,132,6,173,7,PRINCIPAL
+Téléviseurs,354,9,434,3,PRINCIPAL
+Téléviseurs,553,7,364,3,PRINCIPAL
+Téléviseurs,37,6,33,6,SECONDAIRE
+Téléviseurs,13,9,10,5,SECONDAIRE
+Téléviseurs,49,0,34,2,SECONDAIRE
+Téléviseurs,22,5,26,6,SECONDAIRE
+Téléviseurs,132,7,75,4,SECONDAIRE
+Téléviseurs,5,1,5,2,SECONDAIRE
+Téléviseurs,33,6,25,5,SECONDAIRE
+Téléviseurs,153,3,133,4,SECONDAIRE
+Téléviseurs,24,6,23,2,SECONDAIRE
+Téléviseurs,0,0,40,0,SECONDAIRE
+Téléviseurs,230,5,80,5,SECONDAIRE
+Téléviseurs,10,4,9,0,SECONDAIRE
+Téléviseurs,3,5,4,7,SECONDAIRE
+Téléviseurs,380,6,448,4,SECONDAIRE
+Téléviseurs,47,1,32,4,SECONDAIRE
+Téléviseurs,193,6,117,5,SECONDAIRE
+Téléviseurs,62,0,53,9,SECONDAIRE
+Téléviseurs,48,6,43,7,SECONDAIRE
+Téléviseurs,73,6,28,6,SECONDAIRE
+Téléviseurs,34,8,42,7,SECONDAIRE
+Téléviseurs,11,3,21,8,SECONDAIRE
