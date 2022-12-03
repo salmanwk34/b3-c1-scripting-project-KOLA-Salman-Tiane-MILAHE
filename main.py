@@ -1,26 +1,21 @@
 import csv # Importation du module csv
 import unicodedata2 # importation de unicodedata2 pour la gestion des accents
 
-
 data = [] # liste vide
-
 fichier_csv = 'conso-annuelles_v1.csv' # nom du fichier csv
-
 outfile = open("conso-clean.csv", "w") # nom du fichier de sortie et mode d'ouverture (w = write)
-
 
 with open(fichier_csv, 'r') as csvfile: # ouverture du fichier csv en mode lecture
     csvreader = csv.reader(csvfile, delimiter=';') # création d'un objet csvreader
     for row in csvreader: # boucle sur les lignes du fichier csv
         if row[0] != '' and row[1] != '' and row[2] != '' and row[3] != '' and row[4] != '': # Supprime les lignes vides
-            data.append([
+            data.append([ # Ajoute les lignes dans la liste data
                 row[0], # Appareil suivi
                 row[1], # ID logement
                 row[2], # Consommation annuelle AN1
                 row[3], # Consommation annuelle AN2
                 row[4], # Type
             ])
-
 # supprimer id logement
 for row in data:
     del row[1]
@@ -41,8 +36,6 @@ for row in data:
 
 # On enleve l'entete pour convertir
 data.pop(0)
-
-
 
 for row in data: # boucle sur les lignes du fichier csv
     row[0] = row[0].replace(',', '.') # remplace la virgule par un point
@@ -70,9 +63,9 @@ for row in data:
 data.sort(key=lambda x: (x[2], x[1]), reverse=True)
 
 # re ajouter l'entete
-data.insert(0, ['Appareil suivi', 'Consommation annuelle AN1 + AN2', 'Type'])
+data.insert(0, ['Appareil suivi', 'Consommation annuelle AN1 + AN2', 'Type']) 
 
 
 with open('conso-clean.csv', 'w', newline='') as csvfile: # ouverture du fichier de sortie en mode écriture
     writer = csv.writer(csvfile, delimiter=';') # création d'un objet writer pour écrire dans le fichier de sortie
-    writer.writerows(data)
+    writer.writerows(data) # écriture des lignes dans le fichier de sortie
